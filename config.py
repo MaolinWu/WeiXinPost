@@ -5,14 +5,14 @@ app_id = "wx5830ede93cd01f35"
 app_secret = "0eedfd9d147a4fc0d0b79f9ac91df6ae"
 # 模板消息id
 # 每日消息
-template_id1 = "wX-************************************"
+template_id1 = "iyCu8WU7i5CH4tWBm93-Kh20zfBGvdGUrB16bCm7Wi4"
 # 课程消息,上课提醒
-template_id2 = "loe1yHWr************************************"
+template_id2 = "_qdZpBb4v6L-iYuMtd2STe6bh951OkhrA0sGVasa5Zg"
 # 晚安心语
-template_id3 = "-fun9-2************************************"
+template_id3 = "V61OMMsgXIoz1xgtiilmqLZ22jjoHKgJYd4vQsWjXS4	"
 # 接收公众号消息的微信号
 # 这是openid
-user = ["ojhdR50T******************"]
+user = ["oBNjA7QTK9kWr_PX2WmbkolCQnV8"]
 
 # 信息配置
 # 所在省份
